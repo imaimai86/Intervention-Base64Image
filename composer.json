@@ -1,11 +1,11 @@
 {
     "name":"imaimai86/intervention-base64-image",
     "licence":"MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "intervention/image": "^2.3"
     },
-	"autoload": {
+    "autoload": {
         "psr-4": {
             "Base64Image\\": "src/"
         }
