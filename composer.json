@@ -1,5 +1,5 @@
 {
-    "name":"imaimai86/Intervention-Base64Image",
+    "name":"imaimai86/intervention-base64-image",
     "require": {
         "intervention/image": "^2.3"
     },
