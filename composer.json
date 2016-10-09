@@ -1,4 +1,5 @@
 {
+    "name":"Intervention-Base64Image",
     "require": {
         "intervention/image": "^2.3"
     },
