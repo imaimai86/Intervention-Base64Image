@@ -1,6 +1,7 @@
 {
     "name":"imaimai86/intervention-base64-image",
     "licence":"MIT",
+    "minimum-stability": "stable",
     "require": {
         "intervention/image": "^2.3"
     },
