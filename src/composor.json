@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "description": "Handle base64 encoded images send to server",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["Base64", "Image"],
+    "homepage": "https://bitbucket.org/anasthecode/intervention-base64image",
+    "autoload": {
+        "psr-4": {
+            "Base64Url\\":  "src/"
+        }
+    },
+    "require": {
+        "php": "^5.3|^7.0"
+    }
+}
